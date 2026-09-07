@@ -8,8 +8,6 @@ url: "https://dxbangz.github.io"   # change to your site URL
 
 # Navigation
 #aux_links:
- # "GitHub Repository":
-   # - "//github.com/yourusername/my-docs"
 
 # Color scheme (light/dark)
 color_scheme: dark
@@ -23,14 +21,3 @@ search.preview_words_after: 10
 
 # Footer
 footer_content: "Copyright &copy; 2026 Bangz Forge."
-
-# Collections (for docs)
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
