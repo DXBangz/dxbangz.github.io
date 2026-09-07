@@ -1,7 +1,6 @@
 ---
 title: Home
-layout: Home
-nav_order: 1
+layout: home
 ---
 
 # Welcome to My Documentation
