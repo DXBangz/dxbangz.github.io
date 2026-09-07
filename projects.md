@@ -1,5 +1,5 @@
 ---
-title: ⚒️ Projects
+title: Projects
 nav_order: 2
 ---
 
