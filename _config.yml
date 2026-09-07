@@ -1,8 +1,36 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Bangz Forge
+description: join me
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# URL settings (important for GitHub Pages)
+url: "https://dxbangz.github.io"   # change to your site URL
+#baseurl: "/my-docs"                     # repository name if using project site
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Navigation
+#aux_links:
+ # "GitHub Repository":
+   # - "//github.com/yourusername/my-docs"
+
+# Color scheme (light/dark)
+color_scheme: dark
+
+# Search
+search_enabled: true
+search.heading_level: 3
+search.previews: 3
+search.preview_words_before: 5
+search.preview_words_after: 10
+
+# Footer
+footer_content: "Copyright &copy; 2026 Bangz Forge."
+
+# Collections (for docs)
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
