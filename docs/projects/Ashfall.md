@@ -1,4 +1,0 @@
----
-title: Ashfall
-layout: home
----
